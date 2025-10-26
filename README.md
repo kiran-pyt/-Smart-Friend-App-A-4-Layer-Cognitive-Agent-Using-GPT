@@ -58,7 +58,7 @@ Why not try creating AI art using DALL-E or Midjourney?
 
 🛠️ Setup & Run
 # 1 Clone this repo
-git clone https://github.com/<your-username>/SmartFriendApp.git
+git clone https://github.com/<your-username>/SmartFriendApp.git](https://github.com/kiran-pyt/-Smart-Friend-App-A-4-Layer-Cognitive-Agent-Using-GPT.git
 cd SmartFriendApp
 
 # 2 Install dependencies
